@@ -20,7 +20,7 @@ A simple project to change background colors dynamically. Users can click a butt
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/color-flipper.git
+   git clone https://github.com/cananakkus/color-flipper-project
 Demo
 Here's how the project works:
 
