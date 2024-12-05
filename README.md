@@ -31,8 +31,6 @@ Future Improvements
 Add more color schemes (e.g., gradients, named colors).
 Include a copy-to-clipboard feature for the color code.
 Optimize the color generation algorithm for accessibility (e.g., contrast-friendly colors).
-Contributing
-Feel free to fork this repository, make improvements, and submit a pull request. Contributions are always welcome! 🎉
 
+![image](https://github.com/user-attachments/assets/a0eccfe8-683b-42e3-9dd8-a63bfba6554c)
 
-![image](https://github.com/user-attachments/assets/3c1137da-70a8-4a1f-a1d4-82fef3af2c21)
